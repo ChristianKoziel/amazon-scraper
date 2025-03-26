@@ -72,7 +72,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 
 ## 📧 Contato
-<img src="https://i.imgur.com/DvHsOqo.jpg" alt="Minha Foto" width="150" height="150" style="border-radius: 50%;">
+<img src="https://imgur.com/B9vMPp1.jpg" alt="Minha Foto" width="150" height="150" style="border-radius: 50%;">
 **Christian Koziel Correia dos Santos**
 
 Você pode me encontrar em:
