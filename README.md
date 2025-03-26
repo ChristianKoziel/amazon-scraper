@@ -22,7 +22,7 @@ Este é um aplicativo de scraping de produtos da Amazon desenvolvido como parte 
 
 ### Passo 1: Clonar o Repositório
 ```bash
-git clone https://github.com/ChristianKoziel/trainee-web-scraping-test.git
+git clone https://github.com/ChristianKoziel/amazon-scraper.git
 cd amazon-scraper
 ```
 
